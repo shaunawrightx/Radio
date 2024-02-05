@@ -3,7 +3,7 @@ let audio;
 
 function preload() {
   // Load your audio file
-  audio = loadSound('audios/hendon central - elephant shauna (1).mp3');
+  audio = loadSound('hendon central - elephant shauna (1).mp3');
 }
 
 function setup() {
