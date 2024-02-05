@@ -1,0 +1,18 @@
+
+body {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 15, 159);
+
+}
+canvas{
+    display: block;
+}
+/*html, body {
+    margin: 0;
+    padding: 0;
+  }
+  canvas {
+    display: block;
+  }
+  
