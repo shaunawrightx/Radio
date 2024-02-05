@@ -2,7 +2,7 @@ let button;
  let audio;
 
  function preload(){
-    audio = loadSound('/Users/shaunawright/Downloads/Hendon - tottenham court road shauna (1).mp3');
+    audio = loadSound('audios/Hendon - tottenham court road shauna (1).mp3');
  }
  
 function setup() {
@@ -20,7 +20,7 @@ function draw(){
 }
 
 function playAudio() {
-     //Play the audio when the button is clicked
+  
     if (audio.isPlaying()) {
       audio.pause();
     } else {
