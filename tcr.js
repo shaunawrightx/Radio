@@ -2,7 +2,7 @@ let button;
  let audio;
 
  function preload(){
-    audio = loadSound('audios/Hendon - tottenham court road shauna (1).mp3');
+    audio = loadSound('Hendon - tottenham court road shauna (1).mp3');
  }
  
 function setup() {
